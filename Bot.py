@@ -1,8 +1,7 @@
-# A Powerful Music And Management Bot
+j# A Powerful Music And Management Bot
 # Property Of Branded Indian Largest Support Group
-# Rocks © @BRANDRD_BOT © BRANDRD
-# Owner BRANDED + BRANDRD_BOT + BRANDED_WORLD 
-
+# Rocks © @HAPPY_BOY_RK
+# Owner NOBITA
 
 import os, logging, asyncio
 from telethon import Button
@@ -41,8 +40,8 @@ async def start(event):
         link_preview=False,
         buttons=[
             [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/Branded_MentionBot?startgroup=true")],
-            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/BRANDED_WORLD"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/BRANDRD_BOT")],
-            [Button.url("❤️‍🔥 ʜᴇʀᴜᴋᴏ ᴄᴄ 💫", "https://t.me/BRANDED_PAID_CC"), Button.url("❤️‍🔥 BRANDED ❤️‍🔥", "https://t.me/BRANDEDKING82")]
+            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/Nexa_Verse"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/Nexa_Verse")],
+         m
         ]
     )
 
@@ -58,8 +57,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/BRANDED_WORLD"),
-                Button.url("❤️‍🔥 ʏᴏᴜᴛᴜʙᴇ 💫", "https://youtube.com/@TrickyBranded?si=LiWu6DkLNs4bcZn6"),
+                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/Nexa_Verse"),
+                
             ]
         ),
     )
@@ -76,8 +75,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/BRANDED_WORLD"),
-                Button.url("❤️‍🔥 ʏᴏᴜᴛᴜʙᴇ 💫", "https://youtube.com/TrickyBranded"),
+                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/Nexa_Verse"),
+               
             ]
         ),
     )
@@ -220,7 +219,4 @@ print(">> ʙʀᴀɴᴅᴇᴅ ᴍᴇɴᴛɪᴏɴ BOT WORKING <<")
 client.run_until_disconnected()
 
 
-# A Powerful Music And Management Bot
-# Property Of Branded Indian Largest Support Group
-# Rocks © @BRANDRD_BOT © BRANDRD
-# Owner BRANDRD + BRANDRD_BOT + BRANDED_WORLD + BRANDRD SUPPORT CHAT 
+# A Powerful Music And Management
